@@ -72,5 +72,7 @@ app.route('/users')
     
     })
 
+module.exports = app;
+
 
 
